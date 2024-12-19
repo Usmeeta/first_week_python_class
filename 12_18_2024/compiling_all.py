@@ -18,6 +18,13 @@ def setup_mission():
     print("Setup completed.......")
     return available_crew, available_foods
 
+def battery_mission():
+    print("collecting batteries")
+    batteries = [50, 30, 4, 45, 12, 18, 30]  
+    minimum_battery_power = 20  
+    usable_battery_power = 0   
+   
+
 
 
 def allien_attack_game():

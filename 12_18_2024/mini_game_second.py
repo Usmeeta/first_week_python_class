@@ -1,5 +1,5 @@
-alien_message = "Hi Human hoe are you. I am an alien."
+alien_message = ".neila na ma I .uoy era eoh namuH iH"
 print(f"""
-Alien message = {alien_message[::-1]}
-Now, Human message = {alien_message}
+Alien message = {alien_message}
+Now, Human message = {alien_message[::-1]}
       """)
