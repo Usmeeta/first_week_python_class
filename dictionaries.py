@@ -1,5 +1,0 @@
-thisdict = {
-"brand": "ford",
-
-
-}
